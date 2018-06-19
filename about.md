@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Distributed Control and Automation Framework (DCAF) is an application framework designed to help developers by simplifying and accelerating the development of reliable and robust embedded control and test applications in LabVIEW and LabVIEW Real-Time. These applications range from embedded control systems in industrial machines to the automation of distributed motors, valves, pumps and other devices in large test environments.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The [landing page in the NI community](ni.com/dcaf) contains links to the Getting Started Experience for DCAF, and the code is [hosted within Github](https://github.com/LabVIEW-DCAF). 
